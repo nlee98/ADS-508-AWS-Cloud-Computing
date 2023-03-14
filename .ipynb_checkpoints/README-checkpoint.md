@@ -1,5 +1,4 @@
-# ADS-508-AWS-Cloud-Computing
+# Understanding European Electricity Consumption and Spending Pipeline
+ADS-508 AWS Cloud Computing Final Project
 
-Test commit
-
-Hello World
+## Repository Contents: 
