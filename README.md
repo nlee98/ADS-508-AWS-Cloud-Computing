@@ -35,9 +35,9 @@ git clone https://github.com/nlee98/ADS-508-AWS-Cloud-Computing.git
     - Removal of Household Records Lacking Values for All Dates of Interest
     - Feature Creation
       - Create Month and Day_of_Week Columns from Date Value
+      - Create a Daily Temp_range Column from Max_Temp and Min_Temp
     - Feature Transformation
-      - One-Hot Encode Categorical Variables
-      - Normalize and Standardize Features
+      - Normalization of Numerical Features
     - Data Partitioning
 
 ## Data Sources:
