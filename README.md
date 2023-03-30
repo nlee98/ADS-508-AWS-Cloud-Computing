@@ -10,6 +10,11 @@ git clone https://github.com/nlee98/ADS-508-AWS-Cloud-Computing.git
 2. Execute the [Library-Dependencies-Setup Notebook](https://raw.githubusercontent.com/nlee98/ADS-508-AWS-Cloud-Computing/main/Library-Dependencies-Setup.ipynb)
 3. Run the [ADS-508_Final_Notebook.ipynb](https://raw.githubusercontent.com/nlee98/ADS-508-AWS-Cloud-Computing/main/ADS-508_Final_Notebook.ipynb)
 
+## AWS Tools Used:
+* S3
+* Athena/PyAthena
+* SageMaker Image - DeepAR Built-In Algorithm (for model training)
+
 ## Repository Contents:
 * [Setup - Jupyter Notebook](https://github.com/nlee98/ADS-508-AWS-Cloud-Computing/blob/main/Library-Dependencies-Setup.ipynb)
 * [Project - Jupyter Notebook](https://github.com/nlee98/ADS-508-AWS-Cloud-Computing/blob/main/ADS-508_Final_Notebook.ipynb)
