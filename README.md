@@ -20,6 +20,8 @@ git clone https://github.com/nlee98/ADS-508-AWS-Cloud-Computing.git
 * [Setup - Jupyter Notebook](https://github.com/nlee98/ADS-508-AWS-Cloud-Computing/blob/main/Library-Dependencies-Setup.ipynb)
 * [Project - Jupyter Notebook](https://github.com/nlee98/ADS-508-AWS-Cloud-Computing/blob/main/ADS-508_Final_Notebook.ipynb)
 * [Data Field Descriptions](https://github.com/nlee98/ADS-508-AWS-Cloud-Computing/blob/main/Data_Field_Descriptions.ipynb)
+* [Training Data Set](https://github.com/nlee98/ADS-508-AWS-Cloud-Computing/blob/main/training_data.json)
+* [Validation Data Set](https://github.com/nlee98/ADS-508-AWS-Cloud-Computing/blob/main/validation_data.json)
 
 ## Project Notebook Sections:
 - Libraries and Dependencies Import
