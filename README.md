@@ -13,7 +13,8 @@ git clone https://github.com/nlee98/ADS-508-AWS-Cloud-Computing.git
 ## AWS Tools Used:
 * S3
 * Athena/PyAthena
-* SageMaker Image - DeepAR Built-In Algorithm (for model training)
+* SageMaker Image - DeepAR Built-In Algorithm (for Model Training)
+* CloudWatch Metrics - Pulled via SageMaker (for Model Evaluation)
 
 ## Repository Contents:
 * [Setup - Jupyter Notebook](https://github.com/nlee98/ADS-508-AWS-Cloud-Computing/blob/main/Library-Dependencies-Setup.ipynb)
