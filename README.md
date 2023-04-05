@@ -44,6 +44,8 @@ git clone https://github.com/nlee98/ADS-508-AWS-Cloud-Computing.git
     - Feature Transformation
       - Normalization of Numerical Features
     - Data Partitioning
+- Model Training
+- End Point Set Up and Forecasts
 
 ## Data Sources:
 The CSV files from each source were downloaded and uploaded to a public S3 bucket (s3://ads-508-spring2023-team3)
